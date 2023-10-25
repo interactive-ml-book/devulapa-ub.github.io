@@ -8,8 +8,8 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: Andika
-  font_size: L
+  font: test
+  font_size: M
 
 # SEO
 
